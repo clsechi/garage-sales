@@ -1,0 +1,56 @@
+[
+  {
+    "identifier": "bike",
+    "title": "Bicicleta Caloi Aspen Max 21v - Aro 24",
+    "price": 300,
+    "images": [],
+    "description": [
+      "Bicicleta Caloi Aspen Max 21V",
+      "Infanto-juvenil",
+      "Aro 24",
+      "Câmbio Shimano",
+      "Selim em Gel",
+      "Lubrificada",
+      "Pneus e Câmara Novos"
+    ]
+  },
+  {
+    "identifier": "couch",
+    "title": "Sofá 3 Lugares Retrátil",
+    "price": 200,
+    "images": [],
+    "description": [
+      "Medidas = ?",
+      "Medidas = ?",
+      "Medidas = ?",
+      "Medidas = ?",
+      "Medidas = ?",
+      "Medidas = ?",
+      "Medidas = ?"
+    ]
+  },
+  {
+    "identifier": "nobreak",
+    "title": "Nobreak Ts Shara Ups Senoidal 2200 Universal Bivolt - 4420",
+    "price": 1200,
+    "images": [],
+    "description": [
+      "Baterias em perfeito estado.",
+      "Pouquissimo usado.",
+      "Line Interactive (Nobreak Interativo com Regulação On-Line)",
+      "Entrada Bivolt automático 110V, 115V, 127V / 220V",
+      "Saída Bivolt 115V/220V selecionável",
+      "Forma de onda senoidal pura",
+      "4 baterias seladas internas de 12V 7Ah",
+      "Conector para 2 baterias automotivas",
+      "8 tomadas tripolares de saída (10A NBR14136)",
+      "Função Blecaute – DC Start (permite a partida durante falta de energia)",
+      "Estabilizador integrado",
+      "Filtro de linha integrado",
+      "Correção da tensão de saída em TRUE-RMS",
+      "Autonomia de até 12 horas",
+      "Peso: 24kg (bruto com embalagem)",
+      "Mais informações em: https://tsshara.com.br/produto/ups-senoidal-universal-2200va/"
+    ]
+  }
+]
